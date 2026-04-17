@@ -1,2 +1,2 @@
-# atividades-prog2
+# atividade-I-prog2
 
